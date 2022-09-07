@@ -101,6 +101,7 @@ header > p{
     padding-right: 10px;/*desencosta o paragrafo do lado direito do site*/
     padding-left: 10px;/*desencosta o paragrafo do lado esquerdo do site*/
     text-shadow: 2px 3px 0px rgba(0, 0, 0, 0.219);/*sombra no paragrafo*/
+    padding-bottom: 15px;
 }
 
 nav {
